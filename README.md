@@ -92,3 +92,17 @@ Run the program:
 ```bash
 python phishing_url.py
 ```
+## Sample Output
+
+
+### LOW RISK EXAMPLE : 
+
+<img width="502" height="405" alt="sc_1" src="https://github.com/user-attachments/assets/f6ceb46f-8e43-40a6-a0ef-0d2a5bc7d749" />
+
+### POSSIBLE PHISHING EXAMPLE :
+
+<img width="512" height="401" alt="sc_2" src="https://github.com/user-attachments/assets/b15f50d6-fd72-45d1-902d-a0785077d274" />
+
+### HIGH CHANCE OF PHISHING EXAMPLE :
+
+<img width="967" height="411" alt="sc_3" src="https://github.com/user-attachments/assets/f8a109b3-51cb-487e-af85-7fa26449a080" />
